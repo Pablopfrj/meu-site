@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  background-color: #013440;
+  min-height: 100vh;
+  display: flex;
+  gap: 0px 20px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.item{
+  width: 150px;
+  height: 100px;
+  border: 2px solid #b15f30;
+  background-color: #2AB0BF;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: white
+}

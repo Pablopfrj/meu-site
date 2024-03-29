@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #013440;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+}
+
+body{
+  text-align: center;
+}
+
+textarea{
+  background-color: #C5D7D9;
+}
+
+input{
+  background-color: #C5D7D9;
+}
+
+#q{
+  background-color: white;
+  color: black;
+  height: 30px;
+  width: auto;
+  padding: 5px;
+}

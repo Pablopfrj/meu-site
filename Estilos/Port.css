@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:white;
+}
+body{
+  background-color: #013440;
+
+}
+
+h2 {
+  margin: 10px;
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+  border: 2px solid #b15f30;
+  background-color: #026873;
+
+
+}
+
+li{
+  text-align:center;
+  padding: 20px;
+  margin: 10px;
+  font-size: 20px;
+  border: 2px solid #b15f30;
+  background-color: #026873;
+  
+}
+.links {
+  background-color: #026873;
+}
+
+
+.voltar{
+  padding: 20px;
+  margin: 10px;
+}
